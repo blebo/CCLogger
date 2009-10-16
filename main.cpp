@@ -1,4 +1,6 @@
 #include <QtCore/QCoreApplication>
+#include <qextserialport.h>
+#include "serialport.h"
 
 int main(int argc, char *argv[])
 {
